@@ -1,7 +1,11 @@
 module.exports = {
+  mode: 'none',
+  node: {
+    __dirname: true
+  },
   output: {
     filename: 'dist/main.js',
-    path: '/Users/Confetti/Documents/scroll-higlass'
+    path: __dirname
   },
   entry: './src/index.js',
   module: {

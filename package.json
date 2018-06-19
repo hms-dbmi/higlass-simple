@@ -1,10 +1,8 @@
 {
-  "name": "scroll-higlass",
+  "name": "higlass-simple",
   "version": "1.0.0",
-  "description": "",
-  "private": true,
-  "author": "",
-  "license": "ISC",
+  "description": "Basic HiGlass viewer",
+  "author": "Angela Chen <chen650@usc.edu>",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",

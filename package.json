@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
-  "scripts": {
-    "start": "webpack ./src/index.js ./dist/main.js"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {

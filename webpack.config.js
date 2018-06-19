@@ -1,5 +1,4 @@
 module.exports = {
-  mode: 'development',
   output: {
     filename: 'dist/main.js',
     path: '/Users/Confetti/Documents/scroll-higlass'
